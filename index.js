@@ -1,7 +1,8 @@
-var split = require('browser-split')
-var ClassList = require('class-list')
+import split form '../browser-split/index.js'
+import ClassList from '../class-list/index.js'
+import HtmlElement from '../html-element/index.js'
 
-var w = typeof window === 'undefined' ? require('html-element') : window
+var w = typeof window === 'undefined' ? HtmlElement : window
 var document = w.document
 var Text = w.Text
 
