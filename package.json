@@ -16,8 +16,7 @@
   },
   "dependencies": {
     "browser-split": "https://github.com/kamalasaurus/browser-split/tarball/master",
-    "class-list": "https://github.com/kamalasaurus/class-list/tarball/master",
-    "html-element": "https://github.com/kamalasaurus/html-element/tarball/master"
+    "class-list": "https://github.com/kamalasaurus/class-list/tarball/master"
   },
   "browser": {
     "html-element": false
