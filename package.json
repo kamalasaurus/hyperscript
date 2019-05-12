@@ -15,9 +15,9 @@
     "simulate": "0.0.3"
   },
   "dependencies": {
-    "browser-split": "0.0.0",
-    "class-list": "~0.1.0",
-    "html-element": "^2.0.0"
+    "browser-split": "https://github.com/kamalasaurus/browser-split/tarball/master",
+    "class-list": "https://github.com/kamalasaurus/class-list/tarball/master",
+    "html-element": "https://github.com/kamalasaurus/html-element/tarball/master"
   },
   "browser": {
     "html-element": false
